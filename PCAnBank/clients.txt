@@ -1,0 +1,3 @@
+Client{name=Bryce, age=30, personType=EMPLOYEE, linkedAccount=Account{ID=ACC1, currentLoan=30000.0, money=30001.0, interestBenefit=0.05}, hasBankStatement=false, hasCodebtor=false}
+Client{name=Charlotte, age=28, personType=EMPLOYEE, linkedAccount=Account{ID=ACC2, currentLoan=0.0, money=30000.0, interestBenefit=0.05}, hasBankStatement=true, hasCodebtor=false}
+Client{name=Charlie, age=13, personType=INDEPENDENT, linkedAccount=Account{ID=ACC2, currentLoan=0.0, money=30000.0, interestBenefit=0.05}, hasBankStatement=false, hasCodebtor=false}
